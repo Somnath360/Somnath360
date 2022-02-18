@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Somnath360
 - 👀 I’m interested in coding, software and web development.
 - 🌱 I’m currently learning programming languages.
-- 💞️ I’m looking to collaborate on software web development.
+- 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me:
                       sumanbhattarai200@gmail.com
 
